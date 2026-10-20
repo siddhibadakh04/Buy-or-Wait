@@ -1,0 +1,14 @@
+.git/
+.venv*/
+__pycache__/
+dataset/
+evaluation/
+output/
+tmp/
+ts_report_render/
+.streamlit/secrets.toml
+local_finances.sqlite3*
+*.csv
+*.zip
+*.docx
+*.svg
